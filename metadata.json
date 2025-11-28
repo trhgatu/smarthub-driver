@@ -1,0 +1,5 @@
+{
+  "name": "SmartHub Driver",
+  "description": "A comprehensive driver companion app for logistics management with order tracking, timeline visualization, and vehicle management using mock data.",
+  "requestFramePermissions": []
+}
